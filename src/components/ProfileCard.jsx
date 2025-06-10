@@ -10,7 +10,7 @@ const ProfileCard = (props) => {
         </div>
         <button
         onClick={() =>
-          window.open("https:behance.net/adelaniadelaja", "_blank")
+          window.open(props.portfolioLink, "_blank")
         }
       >
         View My Portfolio

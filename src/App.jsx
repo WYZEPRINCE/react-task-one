@@ -10,6 +10,8 @@ function App() {
         name="Adelani Adeyinka Adelaja"
         picture={headshot}
         bio="Creative UI/UX Designer 🎨 & Front-End web developer 👨‍💻| Millitary Personnel | ReacJs | NextJs | Crafting Human-Centered, Impactful Digital Experiences | Bridging User Needs with Business Success |Kodecamp Alumni 🎓 "
+        portfolioLink="https://behance.net/adelaniadelaja"
+
       />
     </div>
   );
